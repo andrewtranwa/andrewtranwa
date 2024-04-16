@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrew Tran</h1>
 <h3 align="center">A Computer Science Student</h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Machine Learning and Web Development**
 
-- 🌱 I’m currently learning **Python, Tensorflow, and Full Stack Development**
+- 🌱 I’m currently learning **Python, Javascript Tensorflow, and Full Stack Development**
 
 - 💬 Ask me about **Java**
 
